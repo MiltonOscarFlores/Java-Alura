@@ -1,0 +1,11 @@
+[
+  {
+    "title": "A New Hope",
+    "episode_id": 4,
+    "release_date": "1977-05-25",
+    "director": "George Lucas"
+  },
+  {
+    "episode_id": 0
+  }
+]
